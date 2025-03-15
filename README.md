@@ -1,6 +1,7 @@
 # DDOS_VIP
 Testing ddos 
 
+rm -rf DDOS_VIP
 
 git clone https://github.com/hozoowhitehat/DDOS_VIP
 
